@@ -18,7 +18,7 @@
 ## 🎯 **Sobre o Projeto**
 
 O **EvasãoStat** é uma plataforma web gratuita e open-source que democratiza o acesso a dados sobre evasão escolar no ensino médio brasileiro. Desenvolvida para gestores educacionais, pesquisadores e formuladores de políticas públicas, a plataforma transforma dados complexos do INEP em visualizações intuitivas e insights acionáveis.
-
+**Expliação do sistema:https://drive.google.com/drive/folders/1bdrGbWEhuRftn55rovueOHPWpKyaioO1?usp=drive_link **
 ### 🌟 **Por que EvasãoStat?**
 
 - **📈 Problema Real**: 1,3 milhão de jovens abandonam a escola anualmente no Brasil
